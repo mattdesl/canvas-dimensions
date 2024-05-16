@@ -1,0 +1,49 @@
+{
+  "name": "canvas-dimensions",
+  "version": "1.0.0",
+  "description": "utilities for paper and print dimensions",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "convert-length": "^1.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "paper",
+    "size",
+    "px",
+    "in",
+    "cm",
+    "mm",
+    "m",
+    "a4",
+    "a3",
+    "a2",
+    "a1",
+    "a0",
+    "a5",
+    "a6",
+    "standard",
+    "print",
+    "dimensions",
+    "sizes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/canvas-dimensions.git"
+  },
+  "homepage": "https://github.com/mattdesl/canvas-dimensions",
+  "bugs": {
+    "url": "https://github.com/mattdesl/canvas-dimensions/issues"
+  },
+  "devDependencies": {
+    "tape": "^5.7.5"
+  }
+}
